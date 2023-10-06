@@ -1,6 +1,6 @@
-# Домашнее задание по DevTools 
+[# Домашнее задание по DevTools 
 
-[Ссылка на дз по DevTools]([https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=sharing])
+[Ссылка на дз по DevTools](https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=drive_link "Ссылка на дз по DevTools")
 
 _Открыть сайт http://itcareer.pythonanywhere.com/_
  1. Открыть Chrome DevTools
@@ -55,3 +55,4 @@ _Открыть сайт http://itcareer.pythonanywhere.com/_
  50. Создать свои параметры плохого соединения и проверить как будет загружаться страница.
  51. Найти интерфейс для изменения/добавления параметров Locations.
  52. Проверить на Google карте как применяются изменения локации.
+](https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=sharing)https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=sharing
