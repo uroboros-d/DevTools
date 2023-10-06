@@ -1,6 +1,10 @@
 # Домашнее задание по DevTools 
 
-[Ссылка на дз по DevTools](https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=drive_link "Ссылка на дз по DevTools")
+[ССЫЛКА НА ДЗ ПО DevTools](https://drive.google.com/file/d/1Fv976BFw0YWXND6zud94B35FtQ1_R4FN/view?usp=drive_link "ССЫЛКА НА ДЗ ПО DevTools")
+
+
+
+УСЛОВИЕ ДЗ:
 
 _Открыть сайт http://itcareer.pythonanywhere.com/_
  1. Открыть Chrome DevTools.
